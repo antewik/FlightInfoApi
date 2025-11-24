@@ -1,0 +1,8 @@
+{
+  "Airlines": [ "Delta Air Lines", "United", "American", "Air Canada", "Lufthansa", "Alaska", "SAS", "Southwest", "Swissair", "Air France", "Norwegian", "Finnair", "KLM" ],
+  "AirlineCodes": [ "DL", "UA", "AA", "AC", "LH", "AS", "SK", "WN", "SR", "AF", "GT", "OX", "MN", "LZ" ],
+  "Destinations": [ "San Francisco", "New York", "Chicago", "Toronto", "London", "Paris", "Berlin", "Stockholm", "Copenhagen", "Zürich", "Madrid", "Prague", "Frankfurt", "Amsterdam", "Vancouver", "Seattle", "Boston", "Mexico City" ],
+  "AircraftModels": [ "Boeing 737", "Airbus A320", "Embraer 175", "Boeing 777", "Airbus A380", "Boeing 787", "Boeing 747" ],
+  "Terminals": [ "1", "2", "3", "4", "5", "6", "7", "8", "B" ],
+  "Gates": [ "A1", "B4", "C7", "D5", "E8", "A2", "B20", "C16", "D9", "E3", "A1", "B5", "C19", "D1", "E2" ]
+}
